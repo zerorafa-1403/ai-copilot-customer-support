@@ -205,6 +205,12 @@ Obs: O estudo foi desenvolvido com apoio do NotebookLM para análise e geração
 Obs: O estudo foi desenvolvido com apoio do NotebookLM.
 
 ---
+## 📈 Possíveis Evoluções
+
+- Implementação de um chatbot real utilizando IA  
+- Integração com APIs de atendimento  
+- Uso de modelos de linguagem para automação  
+- Criação de dashboard para análise de atendimentos  
 
 ## 👨‍💻 Autor
 
