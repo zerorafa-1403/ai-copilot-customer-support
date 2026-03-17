@@ -198,7 +198,7 @@ Seu uso estratégico pode gerar ganhos significativos para empresas e usuários.
 ## 🔗 Link do Projeto
 
 Repositório no GitHub:
-(COLE AQUI O LINK DO SEU REPOSITÓRIO)
+(https://notebooklm.google.com/notebook/dfeff9fa-17aa-4dd7-9be3-65fe9c9d4379)
 
 Obs: O estudo foi desenvolvido com apoio do NotebookLM.
 
