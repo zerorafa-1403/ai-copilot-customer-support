@@ -1,5 +1,3 @@
-# ai-copilot-customer-support
-Practical study on using AI as a copilot for customer support, including prompt engineering, automation, and real-world applications.
 # 🤖 IA como Copiloto para Atendimento ao Cliente
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/ia-copiloto-atendimento)
@@ -163,15 +161,11 @@ IA que auxilia humanos em tarefas.
 
 ### 💡 Prompts Reutilizáveis
 
-Explique este conceito de forma simples
-
-Resuma em tópicos
-
-Dê exemplos práticos
-
-Atue como um especialista em suporte
-
-Como aplicar isso na prática?
+* Explique este conceito de forma simples
+* Resuma em tópicos
+* Dê exemplos práticos
+* Atue como um especialista em suporte
+* Como aplicar isso na prática?
 
 ---
 
@@ -185,6 +179,14 @@ Este estudo contribuiu para o desenvolvimento de um assistente virtual de suport
 
 ---
 
+## 💡 Diferencial do Projeto
+
+Este projeto não apenas apresenta conceitos teóricos, mas demonstra na prática como utilizar IA como ferramenta de apoio no atendimento, aplicando engenharia de prompts e pensamento crítico.
+
+O foco foi desenvolver uma visão aplicada ao mercado de trabalho, conectando o aprendizado com soluções reais.
+
+---
+
 ## 🏁 Conclusão
 
 A IA não substitui o atendimento humano, mas potencializa sua eficiência.
@@ -195,9 +197,14 @@ Seu uso estratégico pode gerar ganhos significativos para empresas e usuários.
 
 ## 🔗 Link do Projeto
 
-https://notebooklm.google.com/notebook/dfeff9fa-17aa-4dd7-9be3-65fe9c9d4379
+Repositório no GitHub:
+(COLE AQUI O LINK DO SEU REPOSITÓRIO)
+
+Obs: O estudo foi desenvolvido com apoio do NotebookLM.
+
 ---
 
 ## 👨‍💻 Autor
 
 Rafael Reis 🚀
+
