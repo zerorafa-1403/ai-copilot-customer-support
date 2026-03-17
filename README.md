@@ -1,9 +1,8 @@
 # 🤖 IA como Copiloto para Atendimento ao Cliente
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/ia-copiloto-atendimento)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/ia-copiloto-atendimento)
-![GitHub](https://img.shields.io/github/license/SEU-USUARIO/ia-copiloto-atendimento)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/zerorafa-1403/ai-copilot-customer-support)
+![GitHub last commit](https://img.shields.io/github/last-commit/zerorafa-1403/ai-copilot-customer-support)
+![GitHub](https://img.shields.io/github/license/zerorafa-1403/ai-copilot-customer-support)
 ---
 
 ## 🎯 Objetivo
