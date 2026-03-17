@@ -197,8 +197,10 @@ Seu uso estratégico pode gerar ganhos significativos para empresas e usuários.
 
 ## 🔗 Link do Projeto
 
-Repositório no GitHub:
-(https://notebooklm.google.com/notebook/dfeff9fa-17aa-4dd7-9be3-65fe9c9d4379)
+Repositório no GitHub:  
+https://github.com/zerorafa-1403/ai-copilot-customer-support
+
+Obs: O estudo foi desenvolvido com apoio do NotebookLM para análise e geração de conteúdo.
 
 Obs: O estudo foi desenvolvido com apoio do NotebookLM.
 
